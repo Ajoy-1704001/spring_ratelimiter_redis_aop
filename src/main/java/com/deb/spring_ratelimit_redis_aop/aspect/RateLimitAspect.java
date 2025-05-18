@@ -1,4 +1,4 @@
-package com.deb.spring_ratelimit_redis_aop.config;
+package com.deb.spring_ratelimit_redis_aop.aspect;
 
 import java.lang.reflect.Method;
 import java.util.Objects;

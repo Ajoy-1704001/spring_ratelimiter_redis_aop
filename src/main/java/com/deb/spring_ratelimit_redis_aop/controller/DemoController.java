@@ -1,4 +1,4 @@
-package com.deb.spring_ratelimit_redis_aop;
+package com.deb.spring_ratelimit_redis_aop.controller;
 
 import java.util.concurrent.TimeUnit;
 
